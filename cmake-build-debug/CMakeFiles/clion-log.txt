@@ -1,0 +1,23 @@
+"/Users/zxc/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/zxc/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/zxc/Downloads/ivs_project_1 -B /Users/zxc/Downloads/ivs_project_1/cmake-build-debug
+-- The C compiler identification is AppleClang 14.0.0.14000029
+-- The CXX compiler identification is AppleClang 14.0.0.14000029
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Python: /Users/zxc/miniforge3/bin/python3.9 (found version "3.9.13") found components: Interpreter 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found Doxygen: /Applications/Doxygen.app/Contents/Resources/doxygen (found suitable version "1.9.5 (2f6875a5ca481a69a6f32650c77a667f87d25e88)", minimum required is "1.8.0") found components: doxygen missing components: dot
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zxc/Downloads/ivs_project_1/cmake-build-debug

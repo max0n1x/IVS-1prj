@@ -1,0 +1,5 @@
+if(EXISTS "/Users/zxc/Downloads/ivs_project_1/cmake-build-debug/tdd_test[1]_tests.cmake")
+  include("/Users/zxc/Downloads/ivs_project_1/cmake-build-debug/tdd_test[1]_tests.cmake")
+else()
+  add_test(tdd_test_NOT_BUILT tdd_test_NOT_BUILT)
+endif()
