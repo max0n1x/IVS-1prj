@@ -353,3 +353,5 @@ TEST(Edges, toStringStream){
 }
 
 /*** Konec souboru tdd_tests.cpp ***/
+
+

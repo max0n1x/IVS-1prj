@@ -3,7 +3,7 @@
 // Purpose:     Test Driven Development - graph
 //
 // $NoKeywords: $ivs_project_1 $tdd_code.h
-// $Author:     JMENO PRIJMENI <xlogin00@stud.fit.vutbr.cz>
+// $Author:     Maksym Podhornyi <xpodho08@stud.fit.vutbr.cz>
 // $Date:       $2023-03-07
 //============================================================================//
 /**
@@ -30,6 +30,7 @@ struct Node{
     size_t id;  ///< jednoznačný identifikátor uzlu
     size_t color;  ///< celé číslo reprezentující barvu uzlu, výchozí barva je 0 a značí neobarveno
     // doplňte vhodné struktury, pokud potřebujete
+    Node(size_t nodeId, size_t nodeColor = 0) : id(nodeId), color(nodeColor) {}
 };
 
 /**
@@ -202,11 +203,10 @@ public:
     void clear();
 
 protected:
-    // doplňte vhodné struktury
     std::vector<Node*> m_nodes;
     std::vector<Edge> m_edges;
-
 };
+
 
 #endif // TDD_CODE_H_
 
