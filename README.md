@@ -11,8 +11,11 @@
 ## White Box Testing:
 
    -Kontrola realokace při vložení prvku: nedostatečně otestováno
+   
    -Kontrola SEGFAULT v hash_map_reserve: nedostatečně otestováno
+   
    -Kontrola used size po pop: nedostatečně otestováno
+   
    -Kontrola stavu tabulky po reindexaci: nedostatečně otestováno
 
 ## Test Driven Development:
