@@ -4,7 +4,8 @@
 
 ## Black Box Testing:
 
-   -FIND: Při spuštění došlo k selhání. (Možná příčina je opomenutí ASSERT nebo je místo něj EXPECT.)\n
+   -FIND: Při spuštění došlo k selhání. (Možná příčina je opomenutí ASSERT nebo je místo něj EXPECT.)
+   
    -INSERT: nedostatečně otestováno
 
 ## White Box Testing:
