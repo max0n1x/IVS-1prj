@@ -1,4 +1,4 @@
-# Projekt 1 -- Testování
+# Projekt 1 IVS VUT FIT 2023 -- Testování 
 
 # Poznámky k úkolům:
 
